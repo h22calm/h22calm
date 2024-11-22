@@ -50,6 +50,9 @@ Here are some ideas to get you started:
 * opencv-python
 * Teachable Machine + p5.js
 
+🔢Math:
+* Linear Algebra
+
 🎨Design:
 * Maya(bouncing ball)
 * Photoshop(using basic tools)
