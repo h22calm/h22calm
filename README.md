@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, world! 🌐
 
 <!--
 **h22calm/h22calm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Static Badge](https://img.shields.io/badge/git-black)
+
 ![KakaoTalk_20241122_142746584$](https://github.com/user-attachments/assets/a9ea5f52-a68d-43e0-813a-667cdb42fa46)
 
-#### 안녕하세요! 저는 정희진(h22calm)입니다.
-#### Hello! I'm Hee Jin Chung(h22calm).
+
+#### 안녕하세요! 저는 경기도 안성에 사는 정희진(h22calm)입니다.
+#### Hello! I'm Hee Jin Chung(h22calm) from Anseong Korea☺️.
+
+
+
 ---
 
 
@@ -27,13 +33,35 @@ Here are some ideas to get you started:
 #### I am a student majoring in Art&Technology at Chung-Ang University.
 
 ![KakaoTalk_20241122_154546375$](https://github.com/user-attachments/assets/0b133c8f-ae63-460d-8bd4-3d3e6eed24d4)
-
 #### 이렇게 말씀드리면 다들 그게 뭐하는 거냐고 물어보시더라고요...
 #### When I say this, everyone asks me what I'm doing...
 
 ![KakaoTalk_20241122_155336866$](https://github.com/user-attachments/assets/c8227d68-5b84-4a9a-8c68-9b9d133379d9)
 ####  저희 과는 ICT에 대한 기본적인 소양을 바탕으로 지식을 융합하고 문제를 해결할 수 있는 창의적 능력을 갖춘 인재 양성을 목표로 프로그래밍, 디자인, 수학, 예술공학 등의 분야에서 학생들을 트레이닝하고 있습니다.
 #### This major trains students in fields such as programming, design, mathematics, and art&tech with the aim of cultivating talented people with creative abilities to fuse knowledge and solve problems based on basic knowledge of ICT.
+
+####  저는 지금 1학년이고, 제가 공부한 것들입니다.
+#### I'm a freshman now, and these are the things I studied.
+
+🖥️Programming:
+* Python (simple grammar,Drawing a national flag using a turtle)
+* C++ (Acquire the concept of object orientation)
+* Making Chatbot (using dialogflow)
+* opencv-python
+* Teachable Machine + p5.js
+
+🎨Design:
+* Maya(bouncing ball)
+* Photoshop(using basic tools)
+
+🖌️Art&Tech:
+* CoSpaces(hologram,AR,VR)
+* Using generative AI
+* Premier pro(making stop motion)
+* Using drone
+  
+#### 앞으로 도래할 ICT 기반의 산업융합시대에 필요한 역량을 갖춘 인재가 되고 싶습니다.
+#### I want to be a talented person with the necessary capabilities in the upcoming ICT-based industrial convergence era.
 ####  저는 지금 이 공부를 1년 정도 해낸 상태이고, 지금은 생성형 AI API에 관심이 있습니다.
 #### I've been studying this for about an year now, and I'm interested in Generative AI API.
 
@@ -49,9 +77,8 @@ Here are some ideas to get you started:
 #### 영어는 잘은 못하지만 계속 공부하고 있고, 어느 정도 의사소통은 가능합니다.
 #### I am not good at English, but I keep studying, and I can communicate to some extent.
 
-#### 함께 프로젝트를 해가면서 경험을 쌓고 싶습니다. 
-#### I am not good at English, but I keep studying, and I can communicate to some extent.
-
+#### 함께 프로젝트를 하면서 경험을 쌓아 봅시다!
+#### Let's gain experience by working on a project together!
 ---
 ![KakaoTalk_20241122_142746584_01$](https://github.com/user-attachments/assets/9a8e2342-a2d1-4179-b4e7-ebbde6d9930a)
 #### 저에 대한 소소한 TMI로 넘어가 볼게요!
@@ -85,4 +112,5 @@ Here are some ideas to get you started:
 #### This character is Potetomung. This is my favorite character. (I didn't draw it...)
 If you want to know more about this guy, click **here**.--->Click [here](https://www.instagram.com/toshimee/)
 
- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
+This is my instagram id-->h22.calm\
+Please Reach me through this email --->mangguo15@naver.com or h22.calm@gmail.com
