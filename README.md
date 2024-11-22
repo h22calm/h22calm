@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+I referenced this video when I created this ReadMefile:
+https://www.youtube.com/watch?v=4cgpu9L2AE8
+https://www.youtube.com/watch?v=w9DfC2BHGPA&t=420s
+https://www.youtube.com/watch?v=kMEb_BzyUqk
+-->
+
 ![Static Badge](https://img.shields.io/badge/git-black)
 
 ![KakaoTalk_20241122_142746584$](https://github.com/user-attachments/assets/a9ea5f52-a68d-43e0-813a-667cdb42fa46)
