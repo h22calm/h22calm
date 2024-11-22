@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 ![KakaoTalk_20241122_155336866$](https://github.com/user-attachments/assets/c8227d68-5b84-4a9a-8c68-9b9d133379d9)
 ####  저희 과는 ICT에 대한 기본적인 소양을 바탕으로 지식을 융합하고 문제를 해결할 수 있는 창의적 능력을 갖춘 인재 양성을 목표로 프로그래밍, 디자인, 수학, 예술공학 등의 분야에서 학생들을 트레이닝하고 있습니다.
 #### This major trains students in fields such as programming, design, mathematics, and art&tech with the aim of cultivating talented people with creative abilities to fuse knowledge and solve problems based on basic knowledge of ICT.
-####  저는 지금 이 공부를 1년 정도 해낸 상태이고, 지금은 생성형 AI에 관심이 있습니다.
-#### I've been studying this for about aㅜ year now, and I'm interested in Generative AI.
+####  저는 지금 이 공부를 1년 정도 해낸 상태이고, 지금은 생성형 AI API에 관심이 있습니다.
+#### I've been studying this for about an year now, and I'm interested in Generative AI API.
 
 ![KakaoTalk_20241122_142746584_02$](https://github.com/user-attachments/assets/d80d5b43-d1a2-46fe-b466-6aee618ecb85)
 ####  하지만 아직 어떤 것을 공부하고 싶은지 고민하는 단계이고, 모르는 것이 너무 많습니다ㅜ
@@ -47,6 +47,9 @@ Here are some ideas to get you started:
 
 ![KakaoTalk_20241122_142746584_03$](https://github.com/user-attachments/assets/e7291b19-ffc5-4930-8b62-d616063d3c6f)
 #### 영어는 잘은 못하지만 계속 공부하고 있고, 어느 정도 의사소통은 가능합니다.
+#### I am not good at English, but I keep studying, and I can communicate to some extent.
+
+#### 함께 프로젝트를 해가면서 경험을 쌓고 싶습니다. 
 #### I am not good at English, but I keep studying, and I can communicate to some extent.
 
 ---
@@ -81,3 +84,5 @@ Here are some ideas to get you started:
 **here**을 클릭하시면 이 친구와 작가님에 대해 자세히 알 수 있어요!--->Click [here](https://www.instagram.com/toshimee/)
 #### This character is Potetomung. This is my favorite character. (I didn't draw it...)
 If you want to know more about this guy, click **here**.--->Click [here](https://www.instagram.com/toshimee/)
+
+ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
