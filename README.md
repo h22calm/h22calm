@@ -75,3 +75,9 @@ Here are some ideas to get you started:
 ![KakaoTalk_20241122_164021338$](https://github.com/user-attachments/assets/d4aafe4f-6622-49cf-af05-146930a3b60c)
 #### 운동을 좋아하지도 잘하지도 열심히 하지도 않지만... 어디가서 한다고 말 안 하면 금방이라도 그만둘 거 같아 여기저기 말하고 다닙니다... 요즘은 요가를 배우고 있어요
 #### I'm learning yoga these days
+
+![KakaoTalk_20241122_142746584_04$](https://github.com/user-attachments/assets/b1bd2c80-b3ad-40ca-8947-ab1f4f57ab64) 
+#### 제가 사용한 이 캐릭터는 포테토뭉입니다. 제 최애캐로 분신같은 아입니다. 당연히 제가 그린 건 아닙니다...
+**here**을 클릭하시면 이 친구와 작가님에 대해 자세히 알 수 있어요!--->Click [here](https://www.instagram.com/toshimee/)
+#### This character is Potetomung. This is my favorite character. (I didn't draw it...)
+If you want to know more about this guy, click **here**.--->Click [here](https://www.instagram.com/toshimee/)
