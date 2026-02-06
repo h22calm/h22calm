@@ -35,6 +35,7 @@ https://www.youtube.com/watch?v=kMEb_BzyUqk
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
   <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white">
   <img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl&logoColor=blue">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
 <img src="https://github.com/user-attachments/assets/d70d0381-3107-4aec-a567-bec2381a90da" width="200" height="300">
