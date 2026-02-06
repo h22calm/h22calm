@@ -22,15 +22,11 @@
 </div>
 
 
-#### 저는 중앙대에서 예술공학을 전공하고 있는 학생입니다.
 #### I am a student majoring in Art&Technology at Chung-Ang University.
+#### I trained here for two years with two big axes: programming and design.
 
-![KakaoTalk_20241122_155336866$](https://github.com/user-attachments/assets/c8227d68-5b84-4a9a-8c68-9b9d133379d9)
-####  저희 과는 ICT에 대한 기본적인 소양을 바탕으로 지식을 융합하고 문제를 해결할 수 있는 창의적 능력을 갖춘 인재 양성을 목표로 프로그래밍, 디자인, 수학, 예술공학 등의 분야에서 학생들을 트레이닝하고 있습니다.
-#### This major trains students in fields such as programming, design, mathematics, and art&tech with the aim of cultivating talented people with creative abilities to fuse knowledge and solve problems based on basic knowledge of ICT.
 
-####  저는 지금 1학년이고, 제가 공부한 것들입니다.
-#### I'm a freshman now, and these are the things I studied.
+#### these are the things I studied.
 
 🖥️Programming:
 * Python (simple grammar,Drawing a national flag using a turtle)
