@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=kMEb_BzyUqk
 
 ![Static Badge](https://img.shields.io/badge/git-black)
 
-![KakaoTalk_20260206_132453467$](https://github.com/user-attachments/assets/a9ea5f52-a68d-43e0-813a-667cdb42fa46)
+![Image](https://github.com/user-attachments/assets/d70d0381-3107-4aec-a567-bec2381a90da)
 
 #### Hello! I'm Hee Jin Chung(h22calm) from Anseong Korea☺️.
 
