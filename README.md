@@ -1,8 +1,11 @@
-<div align="center">
 
-<img src="https://github.com/user-attachments/assets/d70d0381-3107-4aec-a567-bec2381a90da" width="200" height="200" style="border-radius: 50%; object-fit: cover;">
 
 # 🚀 Hello, I'm Hee Jin Chung (h22calm)
+<div align="center">
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d70d0381-3107-4aec-a567-bec2381a90da" width="200" height="300">
+</p>
 #### 📍 Based in Anseong, Korea
 
 > **Art & Technology student at Chung-Ang University** > Bridging the gap between **Programming** and **Design** with creativity.
@@ -13,7 +16,7 @@
 
 </div>
 
----
+
 
 ### 🛠 Tech Stack
 
