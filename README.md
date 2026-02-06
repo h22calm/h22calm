@@ -11,8 +11,9 @@
  **Art & Technology student at Chung-Ang University** > Bridging the gap between **Programming** and **Design** with creativity.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/h22z22n)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h22.calm@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h22.calm@gmail.com)
 [![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:mangguo15@naver.com)
+
 
 </div>
 
@@ -49,6 +50,12 @@
 | **🖌️ Art & Tech** | Generative AI, CoSpaces (AR/VR), Drone Technology, Premiere Pro |
 ---
 
+
+---
+
+### 📫 Contact Me
+* **Email:** [h22.calm@gmail.com](mailto:h22.calm@gmail.com) / [mangguo15@naver.com](mailto:mangguo15@naver.com)
+* **Instagram:** [@h22z22n](https://instagram.com/h22z22n)
 
 <div align="center">
   <p>Copyright © 2026 Hee Jin Chung. All rights reserved.</p>
