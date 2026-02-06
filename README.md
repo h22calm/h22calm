@@ -21,7 +21,9 @@ https://www.youtube.com/watch?v=4cgpu9L2AE8
 https://www.youtube.com/watch?v=w9DfC2BHGPA&t=420s
 https://www.youtube.com/watch?v=kMEb_BzyUqk
 -->
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d70d0381-3107-4aec-a567-bec2381a90da" width="200" height="300">
+</p>
 <div align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
