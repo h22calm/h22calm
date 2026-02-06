@@ -1,29 +1,9 @@
 ## Hello, world! 🌐
-
-<!--
-**h22calm/h22calm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-I referenced this video when I created this ReadMefile:
-https://www.youtube.com/watch?v=4cgpu9L2AE8
-https://www.youtube.com/watch?v=w9DfC2BHGPA&t=420s
-https://www.youtube.com/watch?v=kMEb_BzyUqk
--->
+#### Hello! I'm Hee Jin Chung(h22calm) from Anseong Korea☺️.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d70d0381-3107-4aec-a567-bec2381a90da" width="200" height="300">
 </p>
+
 <div align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -40,16 +20,6 @@ https://www.youtube.com/watch?v=kMEb_BzyUqk
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-<img src="https://github.com/user-attachments/assets/d70d0381-3107-4aec-a567-bec2381a90da" width="200" height="300">
-
-#### Hello! I'm Hee Jin Chung(h22calm) from Anseong Korea☺️.
-
-
-
----
-
-
-![KakaoTalk_20241122_142746584_07$](https://github.com/user-attachments/assets/d9802987-a843-45a2-9788-13a3e0799fe4)
 
 #### 저는 중앙대에서 예술공학을 전공하고 있는 학생입니다.
 #### I am a student majoring in Art&Technology at Chung-Ang University.
