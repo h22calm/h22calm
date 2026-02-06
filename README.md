@@ -1,12 +1,9 @@
 ## Hello, world! 🌐
 #### Hello! I'm Hee Jin Chung(h22calm) from Anseong Korea☺️.
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/d70d0381-3107-4aec-a567-bec2381a90da" 
-       width="200" 
-       height="200" 
-       style="border-radius: 50%; object-fit: cover;">
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d70d0381-3107-4aec-a567-bec2381a90da" width="200" height="300">
+</p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
