@@ -42,19 +42,13 @@
 
 | Category | Topics & Tools |
 | :--- | :--- |
-| **🖥️ Programming** | Python (Turtle Graphics), C++ (OOP), OpenCV, Dialogflow Chatbots, p5.js |
-| **🔢 Mathematics** | Linear Algebra for Computer Graphics |
-| **🎨 Design** | Autodesk Maya (Animation), Adobe Photoshop, Premiere Pro (Stop Motion) |
-| **🖌️ Art & Tech** | CoSpaces (AR/VR), Generative AI, Drone Technology |
-
+| **💻 SW Engineering** | Java, Python(Turtle Graphic), C++, SQL, HTML/CSS/JS, Django, OpenCV, p5.js, DialogFlow(Chatbot), Linear Algebra |
+| **🎮 Game & Graphics** |Unreal Engine, Unity (2D Maze Game), 3D Graphics (OpenGL), Autodesk Maya |
+| **📊 CS & Data Science** | Data Structures & Algorithms, Computer Networks, Probability & Statistics, Research Methodology|
+| **🏛️ Business & Systems** | Management Information Systems (MIS) |
+| **🖌️ Art & Tech** | Generative AI, CoSpaces (AR/VR), Drone Technology, Premiere Pro |
 ---
 
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=h22calm&show_icons=true&theme=radical" alt="h22calm's GitHub stats" />
-</div>
-
----
 
 <div align="center">
   <p>Copyright © 2026 Hee Jin Chung. All rights reserved.</p>
